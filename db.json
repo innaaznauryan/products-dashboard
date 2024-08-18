@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "price": 89.99,
+      "category": "Electronics",
+      "availability": true
+    },
+    {
+      "id": "2",
+      "name": "Smartphone",
+      "description": "Latest model smartphone with 128GB storage and 5G support.",
+      "price": 699.99,
+      "category": "Electronics",
+      "availability": true
+    },
+    {
+      "id": "3",
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with rich sound and long battery life.",
+      "price": 49.99,
+      "category": "Electronics",
+      "availability": false
+    },
+    {
+      "id": "4",
+      "name": "Gaming Laptop",
+      "description": "High-performance gaming laptop with NVIDIA graphics.",
+      "price": 99.99,
+      "category": "Computers",
+      "availability": true
+    },
+    {
+      "id": "6",
+      "name": "Yoga Mat",
+      "description": "Eco-friendly yoga mat for comfort and stability.",
+      "price": 24.99,
+      "category": "Fitness",
+      "availability": true
+    },
+    {
+      "id": "7",
+      "name": "Smart Watch",
+      "description": "Stylish smart watch with fitness tracking and notifications.",
+      "price": 199.99,
+      "category": "Electronics",
+      "availability": false
+    },
+    {
+      "id": "8",
+      "name": "4K Ultra HD TV",
+      "description": "55-inch 4K Ultra HD Smart TV with HDR support.",
+      "price": 499.99,
+      "category": "Electronics",
+      "availability": true
+    },
+    {
+      "id": "9",
+      "name": "Wireless Charger",
+      "description": "Fast wireless charger compatible with Qi-enabled devices.",
+      "price": 29.99,
+      "category": "Electronics",
+      "availability": true
+    },
+    {
+      "id": "10",
+      "name": "Gaming Mouse",
+      "description": "High-precision gaming mouse with customizable buttons.",
+      "price": 59.99,
+      "category": "Computer Accessories",
+      "availability": true
+    },
+    {
+      "id": "11",
+      "name": "Portable SSD",
+      "description": "1TB portable SSD with fast data transfer speeds.",
+      "price": 129.99,
+      "category": "Computers",
+      "availability": true
+    },
+    {
+      "id": "12",
+      "name": "Air Purifier",
+      "description": "HEPA air purifier with smart sensor technology.",
+      "price": 149.99,
+      "category": "Home Appliances",
+      "availability": true
+    },
+    {
+      "id": "13",
+      "name": "Electric Kettle",
+      "description": "Fast boiling electric kettle with temperature control.",
+      "price": 39.99,
+      "category": "Home Appliances",
+      "availability": true
+    },
+    {
+      "id": "14",
+      "name": "Fitness Tracker",
+      "description": "Water-resistant fitness tracker with heart rate monitor.",
+      "price": 49.99,
+      "category": "Fitness",
+      "availability": true
+    },
+    {
+      "id": "15",
+      "name": "Bluetooth Headset",
+      "description": "Comfortable Bluetooth headset with noise-canceling feature.",
+      "price": 79.99,
+      "category": "Electronics",
+      "availability": true
+    },
+    {
+      "id": "16",
+      "name": "Electric Grill",
+      "description": "Indoor electric grill with non-stick surface.",
+      "price": 89.99,
+      "category": "Kitchen Appliances",
+      "availability": true
+    },
+    {
+      "id": "17",
+      "name": "Backpack",
+      "description": "Durable backpack with multiple compartments for travel.",
+      "price": 39.99,
+      "category": "Accessories",
+      "availability": true
+    },
+    {
+      "id": "18",
+      "name": "Wireless Earbuds",
+      "description": "True wireless earbuds with touch controls and charging case.",
+      "price": 59.99,
+      "category": "Electronics",
+      "availability": true
+    },
+    {
+      "id": "19",
+      "name": "Smart Home Hub",
+      "description": "Central hub for smart home devices with voice control.",
+      "price": 99.99,
+      "category": "Electronics",
+      "availability": true
+    }
+  ]
+}
